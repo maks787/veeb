@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using veeb.models;
 
-namespace veebirakendus.Controllers
+namespace veeb.Controllers
 {
     [ApiController]
     [Route("[controller]")]
